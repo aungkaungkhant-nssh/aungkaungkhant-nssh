@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aungkaungkhant-nssh?tab=repositories](https://github.com/aungkaungkhant-nssh?tab=repositories)
 
 - 💬 Ask me about **vue**
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungkaungkhant-nssh)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
