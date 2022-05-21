@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aung Kaung Khant</h1>
 <h3 align="center">Trying To Be A Web Devloper</h3>
 
-- 🌱 I’m currently learning **React Laravel**
-
+- 🌱 I’m currently learning **Node Js**
+    
 - 👨‍💻 All of my projects are available at [https://github.com/aungkaungkhant-nssh?tab=repositories](https://github.com/aungkaungkhant-nssh?tab=repositories)
 
 - 💬 Ask me about **vue**
