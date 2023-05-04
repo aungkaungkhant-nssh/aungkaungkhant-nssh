@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Kaung Khant</h1>
 <h3 align="center">Trying To Be A Web Devloper</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Python**
     
 - 👨‍💻 All of my projects are available at [https://github.com/aungkaungkhant-nssh?tab=repositories](https://github.com/aungkaungkhant-nssh?tab=repositories)
 
