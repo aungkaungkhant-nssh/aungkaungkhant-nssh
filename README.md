@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aung Kaung Khant</h1>
 <h3 align="center">Trying To Be A Web Devloper</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Next Js**
     
 - 👨‍💻 All of my projects are available at [https://github.com/aungkaungkhant-nssh?tab=repositories](https://github.com/aungkaungkhant-nssh?tab=repositories)
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **vue,react and nodejs**
 
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungkaungkhant-nssh&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
