@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aung Kaung Khant</h1>
-<h3 align="center">Trying To Be A Web Devloper</h3>
+<h3 align="center">
+    Backend Developer
+</h3>
 
 - 🌱 I’m currently learning **Python and Next Js**
     
