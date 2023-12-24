@@ -3,7 +3,7 @@
     Backend Developer
 </h3>
 
-- 🌱 I’m currently learning **Python and Next Js**
+- 🌱 I’m currently learning **Nest js**
     
 - 👨‍💻 All of my projects are available at [https://github.com/aungkaungkhant-nssh?tab=repositories](https://github.com/aungkaungkhant-nssh?tab=repositories)
 
