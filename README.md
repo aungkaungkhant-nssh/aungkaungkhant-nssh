@@ -66,5 +66,10 @@ Strong focus on performance, clean architecture, and developer experience.
 </p>
 
 ---
+### 🎓 Education
+
+- **Bachelor of Computer Science (B.C.Sc)**
+- Strong foundation in data structures, algorithms, and software engineering
+
 
 ⭐ *Always learning. Always building.*
